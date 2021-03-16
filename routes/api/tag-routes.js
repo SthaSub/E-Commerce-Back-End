@@ -12,7 +12,7 @@ router.get('/', (req, res) => {
       attributes: ["product_name"]
     }]
   }).then((result) => {
-    console.log(result);
+    // console.log(result);
     res.status(200).json(result);
   }).catch((err) => {
     res.status(500).json(err);
