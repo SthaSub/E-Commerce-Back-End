@@ -34,7 +34,7 @@
 
   ## screenshot
   ### Getting all products information
-  ![getallproducts](./public/assets/images/allproducts.PNG)
+  ![getallproducts](./public/assets/images/allProducts.PNG)
   ### Getting one product information
   ![getoneproduct](./public/assets/images/oneproduct.PNG)
   ### Adding product information
